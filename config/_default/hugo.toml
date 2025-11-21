@@ -1,14 +1,11 @@
-# timeout
 timeout = "1200s"
-# your website url
 baseURL = 'https://handavv.github.io/'
-# website title
+languageCode = 'en-us'
 title = 'David Hangu'
-# theme
 theme = 'bridget'
+
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
-# robots.txt
 enableRobotsTXT = true
 
 [caches]

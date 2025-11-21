@@ -1,1 +1,3 @@
-# handavv.github.io
+# Portfolio Website
+
+Hugo project using Bridget as theme.

@@ -14,7 +14,7 @@ build:
 
 Hi,
 
-I am a Romanian-born Italian Computer Engineering student passionate about cybersecurity, blockchain, and privacy. From time to time, I like capturing moments with my old Canon.  
+I am a Romanian-born Italian Computer Engineering graduate passionate about cybersecurity, blockchain, and privacy. From time to time, I like capturing moments with my old Canon.  
 Feel free to take <u>[a look](/photos)</u> or learn more <u>[about me](/about)</u>.
 
 [LinkedIn ↗](https://linkedin.com/in/davidhangu)
